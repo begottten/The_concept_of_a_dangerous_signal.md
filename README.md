@@ -50,4 +50,4 @@
 ## Список литературы
 ![Image alt](https://github.com/begottten/The_concept_of_a_dangerous_signal.md/blob/main/images/image4.png)
 1. [Studopedia](https://studopedia.ru/18_70331_opasnie-signali-i-ih-istochniki.html)
-2. [Security and Safety](http://secuteck.ru/articles2/kompleks_sys_sec/ugrozi_i_zash)
+2. [Security and Safety](https://studfile.net/preview/4170603/page:6/)
