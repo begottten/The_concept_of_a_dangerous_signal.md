@@ -52,3 +52,4 @@
 ![Image alt](https://github.com/begottten/The_concept_of_a_dangerous_signal.md/blob/main/images/image4.png)
 1. [Studopedia.ru](https://studopedia.ru/18_70331_opasnie-signali-i-ih-istochniki.html)
 2. [Studfile.net](https://studfile.net/preview/4170603/page:6/)
+3. [Intuit.ru](https://intuit.ru/studies/courses/2291/591/lecture/12696?page=3)
