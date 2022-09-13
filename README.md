@@ -1,6 +1,5 @@
 
-# Понятие об опасных сигналах
-![Image alt](https://github.com/begottten/The_concept_of_a_dangerous_signal.md/blob/main/images/432423432.png)
+![Image alt](https://github.com/begottten/The_concept_of_a_dangerous_signal.md/blob/main/images/image1.png)
 ## Что такое опасные сигналы?
 Сигналы, передающие защищаемую информацию, которые могут быть перехвачены злоумышленником с последующим извлечением этой информации, называются **опасными**.
 ## Виды опасных сигналов
