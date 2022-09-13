@@ -49,4 +49,4 @@
 ## Заключение
 ![Image alt](https://github.com/begottten/The_concept_of_a_dangerous_signal.md/blob/main/images/image3.png)
 В зависимости от принадлежности циркулирующей в технических средствах информации к защищаемой и открытой, технические средства делятся на основные технические средства и системы (ОТСС) и вспомогательные технические средства и системы (ВТСС). Важным здесь является то, что ВТСС не обрабатывают защищаемую информацию, но при этом могут находиться в пределах контролируемой зоны совместно с ОТСС. При определенных условиях ВТСС могут стать источниками случайных опасных сигналов, следовательно, они нуждаются в защите наряду с ОТСС.
-![Image alt](https://github.com/begottten/The_concept_of_a_dangerous_signal.md/blob/main/images/image1.png)
+![Image alt](https://github.com/begottten/The_concept_of_a_dangerous_signal.md/blob/main/images/image4.png)
